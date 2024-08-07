@@ -47,6 +47,7 @@
 
 - 감정분류
   >cloudproject_Emotion\azure_function_code\감정분류\classify_model.py
+  >https://func-20202010.azurewebsites.net
 
 
   --> 입력 :  (json형식)
@@ -56,6 +57,11 @@
   --> 출력  :  (json형식)
   
   ![Untitled](https://github.com/user-attachments/assets/7cb6df2b-6583-4735-97a3-6399d5aaddb2)
+
+
+
+  ![image](https://github.com/user-attachments/assets/b3b5272e-0480-417b-92a4-88c4526ce8d5)
+
 
   
 
@@ -79,11 +85,36 @@
 ["Airplane!","Mr. & Mrs. Smith","Zathura: A Space Adventure","The 40 Year Old Virgin","Good Morning, Vietnam","Slacker","Bride & Prejudice","Jay and Silent Bob Strike Back","Hamlet 2","Jungle Shuffle"]
 
 
+![image](https://github.com/user-attachments/assets/a2dd4268-9d67-4220-b1b1-75075e821e22)
+
+
+
 
 ---
 
 ## 데이터 흐름
 
+- 필요한 화면
+  - 로그인
+  - 회원가입
+  - 게시판
+  - 일기장
+  - 감정분류 결과 & 영화추천
+
+
+![image](https://github.com/user-attachments/assets/d2b52fdc-3f93-4eae-a2cf-41c3eea94ca3)
+
+![image](https://github.com/user-attachments/assets/3e59adb4-389b-472d-afe8-67ff28890717)
+
+![image](https://github.com/user-attachments/assets/3e46bf25-ca37-4eba-beb2-0f71d6af1d75)
+
+![image](https://github.com/user-attachments/assets/126aa74a-27ec-40b8-a19d-958d4ee2496f)
+
+![image](https://github.com/user-attachments/assets/f88a834e-6c7a-4d0b-bdad-817260f6305c)
+
+
+- 필요한 table
+   - 
 
 
 #### 시연영상
