@@ -1,4 +1,5 @@
 # 클라우드 프로젝트
+# #azure funcion, azure storage, python, html, figma
 # 일기분석기반 영화추천서비스(azure serverless사용)
 
 - 프로젝트 목적
